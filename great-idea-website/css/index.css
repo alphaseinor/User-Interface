@@ -64,3 +64,110 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+html {
+	text-align: justify;
+	width: 90vw;
+	margin-left: 5vw;
+}
+
+body{
+	width: 100%;`
+}
+
+header{
+	background: white;
+	padding-top:20px;
+	padding-bottom: 20px;
+	width: 100%;
+	text-align: center;
+}
+
+.first-article{
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid black;
+}
+
+article{
+	padding-top: 20px;
+	width: 100%;
+	text-align: justify;
+}
+
+a {
+	text-decoration: none;
+	color: darkgray;
+}
+
+.btn {
+	padding: 2px 40px;
+	border: 1px solid black;
+	color: black;
+	text-align: center;
+}
+
+h1{
+	font-size: 40px;
+	text-align: center;
+}
+
+nav a{
+	padding-top:20px;
+	padding-bottom: 20px;
+	margin: auto;
+	display: inline-block;
+	width: 10vw;
+}
+
+nav img{
+	width: 100%;
+}
+
+.two-inline-block {
+	text-align: justify;
+	display: inline-block;
+	width: 43vw;
+}
+
+.left-padding {
+	margin-left: 20px;
+}
+
+.three-inline-block {
+	text-align: Justify;
+	box-sizing: border-box;
+	display: inline-block;
+	width: 28vw;
+}
+
+.middle-padding{
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.middle-img{
+	width: 90vw;
+}
+
+footer {
+	margin-top:30px;
+	padding-top:30px;
+	margin-bottom: 30px;
+	border-top: 1px solid black;
+}
+
+footer h2{
+	text-align: left;
+}
+
+footer a{
+	text-align: left;
+	display:block;
+}
+
+.centered {
+	text-align: center;
+}
+
