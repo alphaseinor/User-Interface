@@ -104,6 +104,11 @@ a {
 	color: darkgray;
 }
 
+a:hover{
+	text-decoration: underline;
+	color: black;
+}
+
 .title{
 	vertical-align: 800%;
 }
